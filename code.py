@@ -1,3 +1,5 @@
+#COPYRIGHT BY RAMMER3448 ALL RIGHT RESERVED
+
 import random
 from os import system
 
@@ -34,4 +36,4 @@ def montihall(time):
     print("More Info:", "Car =",cnt_right,"Not Car =",cnt_wrong)
     
 
-montihall(100000) # 1000 time test
+montihall(100000) # 100000 time test
